@@ -1,1 +1,1 @@
-This is Winslow's first git project!
+This is Winslow's first gitty git!
